@@ -30,6 +30,10 @@ main {
 
 .main-grid > div {
   background-color:  #fff;
+  display: grid;
+  /*text-align: center;*/
+  justify-content: center;
+  align-items: center;
 }
 
 aside {
